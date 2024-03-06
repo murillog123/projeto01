@@ -1,0 +1,57 @@
+section {
+    height: 100vh;
+    scroll-snap-type: start;
+    position: sticky;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.interface{
+    height: 100vh;
+    scroll-snap-type: y mandatory;
+    overflow: scroll;
+}
+
+.page1{
+    background-image: url(https://boadicadebeleza.com.br/wp-content/uploads/2023/08/roupas-dos-anos-80.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 7rem;
+    font-weight: 700;
+}
+
+.page2{
+    background-image: url(https://www.digitaletextil.com.br/blog/wp-content/uploads/2019/10/moda-feminina-dos-anos-80.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 7rem;
+    font-weight: 700;
+
+}
+.page3{
+    background-image: url(https://www.blog.oticasdiniz.com.br/wp-content/uploads/2019/08/shutterstock_1430611406.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 7rem;
+    font-weight: 700;
+}
+.page4{
+    background-image: url(https://homensquesecuidam.com/wp-content/uploads/2020/01/a-moda-masculina-anos-80-homens-que-se-cuidam-por-juan-alves-d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 7rem;
+    font-weight: 700;
+}
+.page5{
+    background-image: url(https://mixme.com.br/wp-content/uploads/2023/07/estilo-hip-hop-anos-90-originalidade-autenticidade-e-influencia-cultural-1024x682.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 7rem;
+    font-weight: 700;
+}
+
+
